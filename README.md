@@ -1,14 +1,14 @@
 # algoritmic_trading_with_RSI
 Welcome to the Algorithmic Trading with RSI (Relative Strength Index) and SMA (Simple Moving Average) README! This guide will provide you with an overview of how to implement an algorithmic trading strategy using both RSI and SMA indicators in Python.
 
-#prerequisites
+# prerequisites
 Before you get started, make sure you have the following prerequisites in place:
 
 Python 3.x installed on your system.
 Basic knowledge of algorithmic trading concepts.
 Understanding of the Relative Strength Index (RSI) and Simple Moving Average (SMA) indicators.
 
-#strategy overview
+# strategy overview
 The strategy implemented here is a combination of RSI and SMA-based trading strategy:
 
 Buy when the RSI crosses above a certain threshold (20) and the SMA is trending upwards.
